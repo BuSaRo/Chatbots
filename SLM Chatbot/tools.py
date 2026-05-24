@@ -1,0 +1,1 @@
+from langchain_community.utilities import DuckDuckGoSearchAPIWrapper
